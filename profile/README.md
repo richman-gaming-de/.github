@@ -1,6 +1,5 @@
-# IronV Roleplay
-
 ![IronV Banner](assets/banner.png)
+# IronV Roleplay
 
 IronV is a German Grand Theft Auto V Roleplay server based on the multiplayer modification [Alt:V](https://altv.mp/#/) from the [altmp team](https://github.com/altmp).
 
