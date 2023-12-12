@@ -10,6 +10,7 @@ IronV is a German Grand Theft Auto V Roleplay server based on the multiplayer mo
 - CaptainPit
 
 ### Gamedesign / ContentManagement
+- PrismaV8
 - sk4l3xx
 
 ## Contact
@@ -22,6 +23,7 @@ IronV is a German Grand Theft Auto V Roleplay server based on the multiplayer mo
 
 
 ## Authors
+- CaptainPit
 - ExXTreMe
 - M0rx
 - Ryson
