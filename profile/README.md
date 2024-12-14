@@ -17,7 +17,11 @@
 </div>
 
 ## :open_file_folder: Projects
-- We will be listing some projects here soon...
+- [RebarV Plugin Template](https://github.com/richman-gaming-de/rebar-plugin)
+- [RebarV](https://rebarv.com/) Plugins
+  - [Discord Authentification](https://github.com/richman-gaming-de/discordAuth)
+- [Cube PizzaJob PoC](https://github.com/richman-gaming-de/cube-pizza)
+- [RebarV Knowledge Collection](https://github.com/richman-gaming-de/rebarKnowledge)
 
 ## :mailbox_with_mail: Contact
 [Homepage (SOON)](https://richman-gaming.de)
