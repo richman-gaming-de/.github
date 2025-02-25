@@ -1,5 +1,9 @@
 # Richman-Gaming.de
 
+[![Discord](https://img.shields.io/discord/1330148346475843595?label=Discord&logo=discord)](https://discord.gg/invite/y5sxXhj5qy)
+[![AltV Server](https://img.shields.io/badge/AltV%20Server-Verbinden-blue)](https://altv.run/richman_roleplay) 
+[![FiveM Server](https://img.shields.io/badge/Homepage-Visit-blue)](https://richman-gaming.de)
+
 ### Hi there 👋
 
 - 🔭 We are currently working on Plugins for [Rebar](https://rebarv.com/) (its a a plugin-based framework for GTA:V based on [alt:V](https://altv.mp/#/))
@@ -24,7 +28,7 @@
 - [RebarV Knowledge Collection](https://github.com/richman-gaming-de/rebarKnowledge)
 
 ## :mailbox_with_mail: Contact
-[Homepage (SOON)](https://richman-gaming.de)
+[Homepage](https://richman-gaming.de)
 
 [E-Mail](mailto:info@richman-gaming.de)
 
